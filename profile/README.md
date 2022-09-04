@@ -1,8 +1,8 @@
-<p align='center'><img width=300 src="./assets/logo.png" alt=""></p>
+<p align='center'><img width=300 src="logo.png" alt=""></p>
 
 <p align='center'>
 Collection of <i>truly</i> Open-source Micro-Services, Backend Applications and,
-           Front-End Clients to provide JNTU, Hyderabad Engineering Results.
+Front-End Clients to provide JNTU, Hyderabad Engineering Results.
  </p>
 
 We are Open Source enthusiasts aiming to solve issues that students face with
