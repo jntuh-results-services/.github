@@ -1,7 +1,9 @@
-# JNTUH Results Services
+<p align='center'><img width=300 src="./assets/logo.png" alt=""></p>
 
-Collection of _truly_ Open-source Micro-Services, Backend Applications and,
-Front-End Clients to provide JNTU, Hyderabad Engineering Results.
+<p align='center'>
+Collection of <i>truly</i> Open-source Micro-Services, Backend Applications and,
+           Front-End Clients to provide JNTU, Hyderabad Engineering Results.
+ </p>
 
 We are Open Source enthusiasts aiming to solve issues that students face with
 our [University](https://jntuh.ac.in/) Examination [Results
@@ -22,9 +24,9 @@ Documentation](https://hemanthk.me/sgpa-rest-api-docs/)**
 is also available for the guidelines to use the REST-API.
 
 **Collaborators**
+
 - [Thilak Reddy](https://github.com/ThilakReddyy)
 - [Syed Ansar](https://github.com/Syed-Ansar)
-
 
 Contributions are always welcome! We look forward to all those passionate
 developers out there who are willing to contribute to these projects and help
