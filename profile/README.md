@@ -1,4 +1,10 @@
-<p align='center'><img width=300 src="logo.png" alt=""></p>
+
+
+<p align='center'>
+ <img width=300 src="logo.png" alt="">
+</p>
+
+
 
 <p align='center'>
 Collection of <i>truly</i> Open-source Micro-Services, Backend Applications and,
