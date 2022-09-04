@@ -7,9 +7,11 @@
 
 
 <p align='center'>
-Collection of <i>truly</i> Open-source Micro-Services, Backend Applications and,
-Front-End Clients to provide JNTU, Hyderabad Engineering Results.
- </p>
+ <b>
+   Collection of <i>truly</i> Open-source Micro-Services, Backend Applications and,
+   Front-End Clients to provide JNTU, Hyderabad Engineering Results.
+ </b>
+</p>
 
 We are Open Source enthusiasts aiming to solve issues that students face with
 our [University](https://jntuh.ac.in/) Examination [Results
