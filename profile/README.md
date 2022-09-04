@@ -15,7 +15,7 @@
 
 We are Open Source enthusiasts aiming to solve issues that students face with
 our [University](https://jntuh.ac.in/) Examination [Results
-Portal](results.jntuh.ac.in/). We are not driven by any organization, or for
+Portal](https://results.jntuh.ac.in/). We are not driven by any organization, or for
 the matter of fact, even our University, to pursue this endeavour, we are just
 developers creating and taking time off helping out our fellow friends &
 students.
