@@ -28,7 +28,7 @@ Engineering Results:
 - **[Results REST-API](https://github.com/jntuh-results-services/sgpa-rest-api)**
 
 **[API
-Documentation](https://hemanthk.me/sgpa-rest-api-docs/)**
+Documentation](https://hemanth-kotagiri.github.io/sgpa-rest-api-docs/)**
 is also available for the guidelines to use the REST-API.
 
 **Collaborators**
